@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/foo-rum/static/css/main.2c670d7c.css",
+    "main.js": "/foo-rum/static/js/main.90b9b0c1.js",
+    "static/js/453.e5e70804.chunk.js": "/foo-rum/static/js/453.e5e70804.chunk.js",
+    "static/media/quotes.svg": "/foo-rum/static/media/quotes.d0ec1df3677c975f579cc8420e4218d0.svg",
+    "static/media/video-camera.svg": "/foo-rum/static/media/video-camera.f926fe75e1f660836161fae17a26fdcf.svg",
+    "static/media/send.svg": "/foo-rum/static/media/send.2699f29806cc5455d135389e3d367d88.svg",
+    "static/media/list-unordered.svg": "/foo-rum/static/media/list-unordered.d8a1ac772c9a6fac0c1f47a8626591cc.svg",
+    "static/media/trash.svg": "/foo-rum/static/media/trash.03719ac2bdbe2f58054e27b507ef675b.svg",
+    "static/media/comment-text.svg": "/foo-rum/static/media/comment-text.64c081cfb4239ffbd97430235f13ed35.svg",
+    "static/media/send-2.svg": "/foo-rum/static/media/send-2.4967b9e7cd6d7ef663c85971098751de.svg",
+    "static/media/emotion-smile.svg": "/foo-rum/static/media/emotion-smile.af6630354717b67fab7eebfc2df274eb.svg",
+    "static/media/signInIcon.svg": "/foo-rum/static/media/signInIcon.a2495e80536f93e3c2f5d5bec96aeb4a.svg",
+    "index.html": "/foo-rum/index.html",
+    "static/media/text-bold.svg": "/foo-rum/static/media/text-bold.385f2906faaf8e3de9042622236691ae.svg",
+    "static/media/list-ordered.svg": "/foo-rum/static/media/list-ordered.9b757d04e48d936d1913b77f2a473de7.svg",
+    "static/media/mic.svg": "/foo-rum/static/media/mic.d7cbddbaaa196ecca5d9f29e1a0c4c25.svg",
+    "static/media/mouse.svg": "/foo-rum/static/media/mouse.46d2184744684abc195ed0fd0592875e.svg",
+    "static/media/heart.svg": "/foo-rum/static/media/heart.49d78b425b19b891126379d56137352a.svg",
+    "static/media/text-underline.svg": "/foo-rum/static/media/text-underline.2cd7c0f352bfc8602219a16a03fe8f63.svg",
+    "static/media/script.svg": "/foo-rum/static/media/script.6acd5756eaa53744c06476d51835d837.svg",
+    "static/media/text-italic.svg": "/foo-rum/static/media/text-italic.a39efdbafc0d9ae37a73f2db1c8462e9.svg",
+    "static/media/plus.svg": "/foo-rum/static/media/plus.0cf22ca8abc0a81882a29389d613a2ca.svg",
+    "main.2c670d7c.css.map": "/foo-rum/static/css/main.2c670d7c.css.map",
+    "main.90b9b0c1.js.map": "/foo-rum/static/js/main.90b9b0c1.js.map",
+    "453.e5e70804.chunk.js.map": "/foo-rum/static/js/453.e5e70804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c670d7c.css",
+    "static/js/main.90b9b0c1.js"
+  ]
+}
